@@ -1,6 +1,6 @@
 <div align="center">
 
-![Keerthi Nexus Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:172554,100:7C3AED&height=230&section=header&text=KEERTHI%20%2F%2F%20NEXUS&fontSize=48&fontColor=E2E8F0&fontAlignY=38&desc=AI%20Engineering%20%E2%80%A2%20Intelligent%20Systems%20%E2%80%A2%20Automation&descSize=17&descAlignY=57&animation=fadeIn)
+![Keerthi Builds Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:172554,100:7C3AED&height=230&section=header&text=KEERTHI%20BUILDS&fontSize=48&fontColor=E2E8F0&fontAlignY=38&desc=AI%20Engineering%20%E2%80%A2%20Intelligent%20Systems%20%E2%80%A2%20Automation&descSize=17&descAlignY=57&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=760&lines=Engineering+intelligence+that+works+in+the+real+world;RAG+%E2%86%92+Agents+%E2%86%92+Multimodal+AI+%E2%86%92+Production;From+an+idea+to+a+scalable+AI+system)](https://git.io/typing-svg)
 
@@ -10,7 +10,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/keerthi__krrish)
 [![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keerthivasan1845@gmail.com)
 
-![Profile views](https://komarev.com/ghpvc/?username=Keerthi1817&style=flat-square&color=22D3EE&label=PROFILE+SIGNALS)
+![Profile views](https://komarev.com/ghpvc/?username=KeerthiBuilds&style=flat-square&color=22D3EE&label=PROFILE+SIGNALS)
 
 </div>
 
@@ -107,16 +107,16 @@ flowchart LR
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Keerthi1817&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub statistics" />
-<img height="170" src="https://streak-stats.demolab.com?user=Keerthi1817&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KeerthiBuilds&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub statistics" />
+<img height="170" src="https://streak-stats.demolab.com?user=KeerthiBuilds&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 <br />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthi1817&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeerthiBuilds&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Keerthi1817&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KeerthiBuilds&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
 
 ## 📡 Open Channel
 
